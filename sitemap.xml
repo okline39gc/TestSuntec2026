@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://192.168.10.133/index.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-25T03:09:13+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://192.168.10.187/index.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-25T05:32:14+00:00</lastmod>
+  </url>
+</urlset>
